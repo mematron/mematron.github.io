@@ -3,7 +3,7 @@
 
 I build client-side autonomous entities, digital grimoires, and interactive simulations that run entirely in browser-based and device-native environments. 
 
-🌐 **Experience My Active Projects:** [ardorlyceum.itch.io](https://itch.io)
+🌐 **Experience My Active Projects:** [ardorlyceum.itch.io](https://ardorlyceum.itch.io/)
 
 ---
 
